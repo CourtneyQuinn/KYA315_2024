@@ -31,6 +31,7 @@ dependencies:
   - python=3.9.19
   - requests=2.32.2
   - ruamel_yaml=0.15.100
+  - scipy=1.9
   - setuptools=69.5.1
   - six=1.16.0
   - sqlite=3.45.3
